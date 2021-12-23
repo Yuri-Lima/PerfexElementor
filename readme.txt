@@ -1,5 +1,5 @@
 === Elementic ===
-Contributors: gabcarvalhogama
+Contributors: Yuri Lima / Ramon Matos
 Tags: elementor,mautic,integration
 Requires at least: 5.0
 Tested up to: 5.4
@@ -12,8 +12,7 @@ Elementic, um plugin/extensão que adiciona o Mautic ao seu formulário do Eleme
 
 == Description ==
 
-https://www.youtube.com/watch?v=GqcOK4Cuk2g
-
+AQUI ALGO
 
 == Installation ==
 
@@ -33,4 +32,4 @@ https://www.youtube.com/watch?v=GqcOK4Cuk2g
 
 = Installation =
 
-For documentation and tutorials visit our [Video Tutorial](https://www.youtube.com/watch?v=GqcOK4Cuk2g).
+For documentation and tutorials visit our [Video Tutorial](Link aqui em breve).

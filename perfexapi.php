@@ -5,9 +5,8 @@
  * Description: Integre o seu Elementor com o Perfex.
  * Version: 0.0.1
  * Author: Yuri Matos de Lima
- * Author URI: http://www.yurilima.com.br
+ * Author URI: https://resume.yurilima.com.br
  */
-
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
